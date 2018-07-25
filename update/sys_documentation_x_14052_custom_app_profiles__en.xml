@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="" label="Profiles" language="en" table="x_14052_custom_app_profiles">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Profiles</label>
+            <language>en</language>
+            <name>x_14052_custom_app_profiles</name>
+            <plural>Profiles</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>rohan</sys_created_by>
+            <sys_created_on>2018-05-02 10:43:46</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_id>20f4a906dbb1130071a1771ebf9619df</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Profiles</sys_name>
+            <sys_package display_value="Custom App" source="x_14052_custom_app">5d3c1102dbb1130071a1771ebf9619a8</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Custom App">5d3c1102dbb1130071a1771ebf9619a8</sys_scope>
+            <sys_update_name>sys_documentation_x_14052_custom_app_profiles__en</sys_update_name>
+            <sys_updated_by>rohan</sys_updated_by>
+            <sys_updated_on>2018-05-02 10:43:46</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
